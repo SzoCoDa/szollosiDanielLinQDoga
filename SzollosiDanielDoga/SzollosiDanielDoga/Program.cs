@@ -32,7 +32,7 @@ Console.WriteLine($"A legtöbben játszott játék az a {legtobbenJatszott.Cim}"
 Console.WriteLine("\n--------------------\n");
 
 Console.WriteLine("Feladat 3:");
-var janElottMegj = videojatekok.Any(v => v.KiadasDatum.Year < 2020 && (v.KiadasDatum.Month != 1 && v.KiadasDatum.Day != 1));
+var janElottMegj = videojatekok.Any(v => (v.KiadasDatum.Month != 1 && v.KiadasDatum.Year < 2020) && (v.KiadasDatum.Day != && 1 v.KiadasDatum.Year < 2020));
 Console.WriteLine(janElottMegj ? "Van ilyen játék" : "Nincs ilyen játék");
 
 Console.WriteLine("\n--------------------\n");
