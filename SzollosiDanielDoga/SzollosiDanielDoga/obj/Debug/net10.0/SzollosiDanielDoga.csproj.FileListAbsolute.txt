@@ -1,0 +1,15 @@
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\bin\Debug\net10.0\SzollosiDanielDoga.exe
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\bin\Debug\net10.0\SzollosiDanielDoga.deps.json
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\bin\Debug\net10.0\SzollosiDanielDoga.runtimeconfig.json
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\bin\Debug\net10.0\SzollosiDanielDoga.dll
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\bin\Debug\net10.0\SzollosiDanielDoga.pdb
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\SzollosiDanielDoga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\SzollosiDanielDoga.AssemblyInfoInputs.cache
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\SzollosiDanielDoga.AssemblyInfo.cs
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\SzollosiDanielDoga.csproj.CoreCompileInputs.cache
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\SzollosiDanielDoga.dll
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\refint\SzollosiDanielDoga.dll
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\SzollosiDanielDoga.pdb
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\SzollosiDanielDoga.genruntimeconfig.cache
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\ref\SzollosiDanielDoga.dll
+C:\Users\szollosi.daniel\source\repos\SzollosiDanielDoga\SzollosiDanielDoga\obj\Debug\net10.0\Szollosi.8F648406.Up2Date
